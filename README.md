@@ -18,8 +18,8 @@ This project presents a complete risk management process for a simulated organiz
 ## 📊 Deliverables
 | File | Description |
 |------|--------------|
-| `Case_Study.md` | Organization profile and context |
-| `Asset_Inventory.xlsx` | Key information assets with classification, Threats, vulnerabilities, and risk scores|
+| `BSI Case_Study.pdf` | Organization profile and context |
+| `Risk Management Project.pdf` | Documentation - Key information assets with classification, Threats, vulnerabilities, and risk scores|
 
 
 ## 🧠 Framework Used
