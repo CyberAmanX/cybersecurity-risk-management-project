@@ -4,9 +4,7 @@
 This project presents a complete risk management process for a simulated organization. It follows the **ISO/IEC 27005** framework to identify, assess, and mitigate cybersecurity risks.
 
 ## 🏢 Case Study Organization
-**Company:** Falcon Tech Solutions Pvt. Ltd.  
-**Sector:** IT Services (SME)  
-**Focus:** Cloud Infrastructure and Client Data Management  
+**Business Supplies, Inc. (BSI)** provides customers with high-quality business and technology supplies, equipment, furnishings, and expert advice to help clients maximize their operational efficiency.
 
 ## 🧩 Project Components
 - **Risk Management Framework:** Selected ISO/IEC 27005 for structured, repeatable risk analysis.
